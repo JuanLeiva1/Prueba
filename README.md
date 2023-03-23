@@ -12,4 +12,4 @@ Este proyecto está desarrollado para la **Universidad Continental**
 
 That is so funny! :joy:
 
-![alt text](image.jpg)
+![logo UC](INFRAESTRUCTURA-UC-CENTRO-1.jpg)
